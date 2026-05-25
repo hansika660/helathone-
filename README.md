@@ -105,14 +105,16 @@ Tools:
 
 ---
 ## FINAL GALLERY
+# 📷 Final Gallery
+
 ## Dashboard
-![Dashboard](IMG_4538.jpeg)
+![Dashboard](./IMG_4538.jpeg)
 
 ## Appointment Booking
-![Appointment](IMG_4539.jpeg)
+![Appointment](./IMG_4539.jpeg)
 
-## Architecture
-![Architecture](IMG_4540.jpeg)
+## Home Screen
+![Home](./IMG_4540.jpeg)
 ---
 
 # Testing & Resilience
