@@ -107,14 +107,15 @@ Tools:
 ## FINAL GALLERY
 # 📷 Final Gallery
 
+## Home Screen
+![Home](./IMG_4538.jpeg)
+
 ## Dashboard
-![Dashboard](./IMG_4538.jpeg)
+![Dashboard](./IMG_4539.jpeg)
 
 ## Appointment Booking
-![Appointment](./IMG_4539.jpeg)
+![Appointment](./IMG_4540.jpeg)
 
-## Home Screen
-![Home](./IMG_4540.jpeg)
 ---
 
 # Testing & Resilience
