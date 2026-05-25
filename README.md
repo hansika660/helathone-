@@ -106,14 +106,14 @@ Tools:
 ---
 
 # Final Gallery
-## Home Screen
-![Home](home.png)
-
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](IMG_4538.jpeg)
 
 ## Appointment Booking
-![Appointment](appointment.png)
+![Appointment](IMG_4539.jpeg)
+
+## Architecture
+![Architecture](IMG_4540.jpeg)
 
 ---
 
