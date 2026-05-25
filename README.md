@@ -104,8 +104,7 @@ Tools:
 - VS Code
 
 ---
-
-# Final Gallery
+## FINAL GALLERY
 ## Dashboard
 ![Dashboard](IMG_4538.jpeg)
 
@@ -114,7 +113,6 @@ Tools:
 
 ## Architecture
 ![Architecture](IMG_4540.jpeg)
-
 ---
 
 # Testing & Resilience
